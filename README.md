@@ -15,8 +15,10 @@ fractal_tree.py - 用于生成分形树的脚本。你可以修改文件中的�
 # 使用
 要使用这些脚本，你需要有 Python 以及 numpy 和 matplotlib 这两个库。如果你没有这些库，你可以使用 pip 来安装：
 pip install numpy matplotlib
+
 然后，你可以运行脚本来生成分形图像。例如，要生成一个曼德博集合，你可以运行：
 python mandelbrot.py
+
 你可以在脚本中修改参数来改变生成的分形的属性。
 
 # 贡献
